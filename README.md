@@ -19,7 +19,7 @@ graphics exercise with:
    assumes you [set up nvf](https://www.youtube.com/watch?v=uP9jDrRvAwM)
    already. then just replace your nvf configuration with
    `nvf-configuration.nix` from this repo.
-2. download all the cg-exercise-XX.zip into a private repo.
+2. download all the cg-exercise-XX.zip into a this repo (dont push them for KIT may not like that)
 3. unzip them all with `unzip`
 4. loosely read the `lesgo.sh` then run it it will show you the latest commits
    and some tasks. the tasks are for you to adapt whenever you achieved sth new.
