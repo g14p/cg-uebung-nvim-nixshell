@@ -19,8 +19,12 @@ graphics exercise with:
    assumes you [set up nvf](https://www.youtube.com/watch?v=uP9jDrRvAwM)
    already. then just replace your nvf configuration with
    `nvf-configuration.nix` from this repo.
-2. download all the cg-exercise-XX.zip from the [ws26 ilias course](https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&cmdNode=y1:nq&cmdClass=ilobjfoldergui&ref_id=3073228&item_ref_id=0) or your current one into a this repo (dont push them for KIT may not like that). I guess you have the course password as you are enrolled.
-3. unzip them all with `unzip`
+2. download all the zip files (`01_colors.zip`, `02_whitted.zip` etc. from the [ws26 ilias course](https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&cmdNode=y1:nq&cmdClass=ilobjfoldergui&ref_id=3073228&item_ref_id=0) or your current one into a this repo (dont push them for KIT may not like that). I guess you have the course password as you are enrolled.
+3. unzip them all with `unzip`. Maybe 
+```bash
+unzip 0*_*.zip`
+```
+will suffice for that. 
 4. loosely read the `lesgo.sh` then run it it will show you the latest commits
    and some tasks. the tasks are for you to adapt whenever you achieved sth new.
    Also it shows you shortcuts. F.e. `v` to nvim into the source code Also you
