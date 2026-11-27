@@ -1,4 +1,5 @@
 # What is this?
+<img width="692" height="374" alt="image" src="https://github.com/user-attachments/assets/15e33293-500d-4912-9e86-412343a3112d" />
 
 An opiniated quick setup for nixos users that want to solve the computer
 graphics exercise with:
