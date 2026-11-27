@@ -25,6 +25,7 @@ graphics exercise with:
 unzip 0*_*.zip`
 ```
 will suffice for that. 
+
 4. loosely read the `lesgo.sh` then run it it will show you the latest commits
    and some tasks. the tasks are for you to adapt whenever you achieved sth new.
    Also it shows you shortcuts. F.e. `v` to nvim into the source code Also you
