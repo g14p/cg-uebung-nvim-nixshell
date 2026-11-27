@@ -34,3 +34,9 @@ graphics exercise with:
 | Setting up Compiling | make and cmake not found                   | make sure u are in nix-shell                             |
 | Compiling            | cmake deprecated                           | Increase cmake version in CMakeLists.txt                 |
 | Solving exercises    | cpp headers are not found by nvim's linter | Ensure that CMakeLists.txt exports compile-commands.json |
+
+
+# Disclaimer 
+
+Although i did lesgo.sh myself, nvf_configuration.nix is just a reduced version of https://github.com/NotAShelf/nvf/blob/main/configuration.nix and also the default.nix is just AI generated. But it works and doesnt look sus to me so i'd go with it in your case. :) 
+
